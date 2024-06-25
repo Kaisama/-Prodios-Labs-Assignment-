@@ -12,6 +12,21 @@
 
 </ul>
 
+## Technologies Used
+<ul>
+  <li>React</li>
+  <li>Prism JS</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Tailwind</li>
+</ul>
+
+# Preview
+
+![image](https://github.com/Kaisama/-Prodios-Labs-Assignment-/assets/109125241/aa72b1fd-6e62-4130-80ff-5c84b1072bda)
+</br></br>
+![image](https://github.com/Kaisama/-Prodios-Labs-Assignment-/assets/109125241/3346dabc-1b9a-49fa-8a53-7ebd46dcdda5)
+
 ## Features
 <ul>
   <li>Syntax Highlighting: Utilizes Prism JS to dynamically highlight syntax as the user types.</li>
@@ -24,48 +39,25 @@
 
 ### Setting Up Prism JS:
 
-Imported and configured Prism JS in the React application.
-Leveraged prism-react-renderer to integrate Prism JS with React components.
-Component Structure:
+<ul>
+  <li>Imported and configured Prism JS in the React application.</li>
+  <li>Leveraged prism-react-renderer to integrate Prism JS with React components.</li>
+</ul>
 
-Created a CodeEditor component responsible for rendering the textarea and handling user input.
-Utilized state management (e.g., useState hook) to manage the content of the textarea.
-Syntax Highlighting:
+### Component Structure:
 
-Integrated Prism JS to dynamically highlight syntax based on the content typed by the user.
-Configured Prism to support various programming languages and themes.
-Styling:
+<ul>
+  <li>Created a CodeEditor component responsible for rendering the textarea and handling user input.</li>
+  <li>Utilized state management (e.g., useState hook) to manage the content of the textarea.</li>
+</ul>
 
-Applied basic CSS to enhance the appearance and usability of the code editor.
-Ensured responsive design for different screen sizes.
-Example Screenshot
+### Syntax Highlighting:
+
+<ul>
+  <li>Integrated Prism JS to dynamically highlight syntax based on the content typed by the user.</li>
+  <li>Configured Prism to support various programming languages and themes.</li>
+</ul>
 
 
-Submission Details
-You can find the implementation of this assignment either in the GitHub repository or a live Codesandbox:
 
-GitHub Repository: Link to GitHub Repository
-Codesandbox: Link to Codesandbox (if applicable)
-Guidelines
-Ensure code readability with proper indentation and consistent naming conventions.
-Utilize functional components and hooks where applicable.
-Add type definitions for enhanced code clarity (optional but recommended).
-Running the Project Locally
-To run the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/prodios-labs-assignment.git
-Navigate into the project directory: cd prodios-labs-assignment
-Install dependencies: npm install or yarn install
-Start the development server: npm start or yarn start
-Open your browser and visit http://localhost:3000 to view the code editor.
-Technologies Used
-React
-Prism JS
-HTML
-CSS
-
-#Preview
-
-![image](https://github.com/Kaisama/-Prodios-Labs-Assignment-/assets/109125241/aa72b1fd-6e62-4130-80ff-5c84b1072bda)
-<br/>
-![image](https://github.com/Kaisama/-Prodios-Labs-Assignment-/assets/109125241/3346dabc-1b9a-49fa-8a53-7ebd46dcdda5)
