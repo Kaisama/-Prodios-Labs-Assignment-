@@ -12,7 +12,8 @@ function App() {
           </div>
           <div>
             <button className="border-1 px-3 bg-black text-white hover:bg-red-500" >
-              Github
+              <a href="https://github.com/Kaisama/-Prodios-Labs-Assignment-/tree/main/src"> Github</a>
+             
             </button>
           </div>
         </div>
